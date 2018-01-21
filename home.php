@@ -8,5 +8,6 @@
 
 get_header(); ?>
 
+<?php get_template_part('templates/hero/full-screen'); ?>
 
 <?php get_footer(); ?>

@@ -24,7 +24,7 @@ module.exports = {
         "indent-legacy": 0,
         "key-spacing": 2,
         "keyword-spacing": 2,
-        "linebreak-style": [2, "unix"],
+        "linebreak-style": [2, "windows"],
         "no-array-constructor": 2,
         "no-cond-assign": 0,
         "no-duplicate-imports": 2,
